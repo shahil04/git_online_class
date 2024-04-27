@@ -1,4 +1,6 @@
-new file addd
+new file add
+
+add by A in 27th
 <<<<<<< HEAD
 add from demo local file
 
